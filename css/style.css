@@ -1,0 +1,25 @@
+h1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center}
+
+h2,h3 {
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(154, 71, 231)}
+
+p {
+    line-height: 20px
+}
+
+img { 
+    border: 5px solid pink;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px
+}
+
+ul {
+    display: inline-block;
+    margin-left: 50px;
+  }

@@ -1,2 +1,1 @@
-# discussion7
-SI 539 discussion 7
+# f23_common_project_starter_code
